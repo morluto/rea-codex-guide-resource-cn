@@ -464,8 +464,8 @@
       "id": "rea-reverse-engineer-anything",
       "title": "REA reverse-engineer-anything",
       "title_en": "REA reverse-engineer-anything",
-      "url": "https://github.com/morluto/rea/tree/main/skill-src/reverse-engineer-anything",
-      "canonical": "https://github.com/morluto/rea/tree/main/skill-src/reverse-engineer-anything",
+      "url": "https://github.com/morluto/rea/tree/main/.agents/skills/reverse-engineer-anything",
+      "canonical": "https://github.com/morluto/rea/tree/main/.agents/skills/reverse-engineer-anything",
       "type": "repository",
       "category": "skills",
       "language": "en",
@@ -494,7 +494,7 @@
       "status": "active",
       "last_verified": "2026-10-10",
       "references": [
-        "https://github.com/morluto/rea/blob/main/skill-src/reverse-engineer-anything/SKILL.md",
+        "https://github.com/morluto/rea/blob/main/.agents/skills/reverse-engineer-anything/SKILL.md",
         "https://github.com/morluto/rea/blob/main/docs/installation.md",
         "https://github.com/morluto/rea/blob/main/LICENSE"
       ],
